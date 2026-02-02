@@ -1,8 +1,8 @@
 # Lab 2: Introduction to Linux (with focus on Kali)
 
-**Course:** SPTI+
+**Course:** SPTI
 **Authors:** David Velásquez, Jesús Pinzón
-**Date:** 2026-01-27
+**Date:** 2026-02-01
 
 ---
 
