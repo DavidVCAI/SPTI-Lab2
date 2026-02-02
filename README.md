@@ -32,7 +32,7 @@ ls -la
 
 **Screenshot 1.1:** Navigation through /, /etc, /var, /home
 
-![alt text](screenshots/image.png)
+<img src="screenshots/image.png" alt="Screenshot 1.1" width="80%">
 ---
 
 ### 1.2 Analyzing /etc/passwd
@@ -402,7 +402,7 @@ See attached file: `count_lines.sh`
 
 **Screenshot 5.2:** Script content
 
-> [PASTE SCREENSHOT HERE]
+![alt text](screenshots/image-25.png)
 
 ### 5.3 Script Execution
 
@@ -444,3 +444,30 @@ Bash scripting automates repetitive tasks, from log analysis to system auditing.
 1. `Lab2_Linux_Report.md` - This report
 2. `count_lines.sh` - Bash automation script
 3. `screenshots/` - All screenshots
+
+---
+
+## 👥 *Authors*
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/JAPV-X2612">
+        <img src="https://github.com/JAPV-X2612.png" width="100px;" alt="Jesús Alfonso Pinzón Vega"/>
+        <br />
+        <sub><b>Jesús Alfonso Pinzón Vega</b></sub>
+      </a>
+      <br />
+      <sub>Full Stack Developer</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JAPV-X2612">
+        <img src="https://github.com/DavidVCAI.png" width="100px;" alt="Jesús Alfonso Pinzón Vega"/>
+        <br />
+        <sub><b>David Felipe Velásquez Contreras</b></sub>
+      </a>
+      <br />
+      <sub>Full Stack Developer</sub>
+    </td>
+  </tr>
+</table>
